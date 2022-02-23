@@ -1,0 +1,15 @@
+C:\Users\vindy\source\repos\GenericMaximumNumber\GenericMaximumNumber\bin\Debug\net6.0\GenericMaximumNumber.exe
+C:\Users\vindy\source\repos\GenericMaximumNumber\GenericMaximumNumber\bin\Debug\net6.0\GenericMaximumNumber.deps.json
+C:\Users\vindy\source\repos\GenericMaximumNumber\GenericMaximumNumber\bin\Debug\net6.0\GenericMaximumNumber.runtimeconfig.json
+C:\Users\vindy\source\repos\GenericMaximumNumber\GenericMaximumNumber\bin\Debug\net6.0\GenericMaximumNumber.dll
+C:\Users\vindy\source\repos\GenericMaximumNumber\GenericMaximumNumber\bin\Debug\net6.0\ref\GenericMaximumNumber.dll
+C:\Users\vindy\source\repos\GenericMaximumNumber\GenericMaximumNumber\bin\Debug\net6.0\GenericMaximumNumber.pdb
+C:\Users\vindy\source\repos\GenericMaximumNumber\GenericMaximumNumber\obj\Debug\net6.0\GenericMaximumNumber.csproj.AssemblyReference.cache
+C:\Users\vindy\source\repos\GenericMaximumNumber\GenericMaximumNumber\obj\Debug\net6.0\GenericMaximumNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vindy\source\repos\GenericMaximumNumber\GenericMaximumNumber\obj\Debug\net6.0\GenericMaximumNumber.AssemblyInfoInputs.cache
+C:\Users\vindy\source\repos\GenericMaximumNumber\GenericMaximumNumber\obj\Debug\net6.0\GenericMaximumNumber.AssemblyInfo.cs
+C:\Users\vindy\source\repos\GenericMaximumNumber\GenericMaximumNumber\obj\Debug\net6.0\GenericMaximumNumber.csproj.CoreCompileInputs.cache
+C:\Users\vindy\source\repos\GenericMaximumNumber\GenericMaximumNumber\obj\Debug\net6.0\GenericMaximumNumber.dll
+C:\Users\vindy\source\repos\GenericMaximumNumber\GenericMaximumNumber\obj\Debug\net6.0\ref\GenericMaximumNumber.dll
+C:\Users\vindy\source\repos\GenericMaximumNumber\GenericMaximumNumber\obj\Debug\net6.0\GenericMaximumNumber.pdb
+C:\Users\vindy\source\repos\GenericMaximumNumber\GenericMaximumNumber\obj\Debug\net6.0\GenericMaximumNumber.genruntimeconfig.cache
