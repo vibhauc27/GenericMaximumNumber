@@ -25,7 +25,7 @@ namespace GenericMaximumNumber
             }
             else
             {
-                Console.WriteLine("1st,2nd,3rd having same value/equals");
+                Console.WriteLine("1st,2nd,3rd having same value or equals");
                 return 0;
             }
         }
