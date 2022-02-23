@@ -9,7 +9,7 @@ namespace GenericMaximumNumber
     public class MaximumNumber
     {
 
-        public static int MaximumValueofThree(int firstValue, int secondValue, int thirdValue)
+        public static double MaximumValueofThree(double firstValue, double secondValue, double thirdValue)
         {
             if (firstValue.CompareTo(secondValue) > 0 && firstValue.CompareTo(thirdValue) > 0)
             {
